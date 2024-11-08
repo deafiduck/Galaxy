@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tooth
+  - clothes
+  - cube
+  - film
+  - hand
+  - trash
+  - button
+  - machine
+  - SamplesInfoPanel
+  - TaskManager
+  - hands
+  - take_film
+  - filmplaced
+  - random
+  - take_film_patient
+  - isStripTaken
+  - garbage
+  - film6
+  - film4
+  - film7
+  - film1
+  - film8
+  - film3
+  - film2
+  - film5
+  - AngleCalculator
+  - ToothManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tooth
+  - Water
+  - UI
+  - film
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
