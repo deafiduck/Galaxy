@@ -6008,27 +6008,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9077541599290301245, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
-      value: 0
+      value: 0.8915094
       objectReference: {fileID: 0}
     - target: {fileID: 9077541599290301245, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.66979957
+      value: 0.98027444
       objectReference: {fileID: 0}
     - target: {fileID: 9077541599290301245, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.8207547
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9175582535525186677, guid: 5f776740c447e45afb25edbca842de92, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 9175582535525186677, guid: 5f776740c447e45afb25edbca842de92, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 9175582535525186677, guid: 5f776740c447e45afb25edbca842de92, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 9176045411274903443, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 9176045411274903443, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 9176045411274903443, guid: 5f776740c447e45afb25edbca842de92, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

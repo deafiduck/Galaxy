@@ -1,1 +1,0 @@
-TeethName: 0, AngleValue: 30
